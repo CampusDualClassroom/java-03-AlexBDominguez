@@ -24,8 +24,6 @@ public class Exercise03 {
         }
     }
 
-    //Desde el método main() se llamará al método checkUser() dos veces: una pasándole ambos datos correctos y otra pasándole ambos datos incorrectos.
-
 
     public static void main(String[] args) {
         checkUser("Sebas","sebas01");
